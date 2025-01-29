@@ -27,7 +27,7 @@ I make my commits in french.
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/NytrixFM/OS/blob/main/index.html"><b>html OS</b></a></td>
+      <td><a href="https://github.com/NytrixFM/OS/"><b>html OS</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/NytrxixFM/OS?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/NytrixFM/OS?style=flat-square&labelColor=343b41"/></td>
     </tr>
